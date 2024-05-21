@@ -40,8 +40,8 @@ I am an **Aspiring Data Analyst** with a strong background in **Chemistry** and 
 ## 🧩 Repositories
 
 ### 📊 Data Visualization Projects
-- **[HR Analytics Dashboard](https://github.com/agnivamukherjeeofficial/hr-analytics-dashboard)** - Power BI dashboard analyzing HR data with a focus on gender-related KPIs.
-- **[Sales Performance Dashboard](https://github.com/agnivamukherjeeofficial/sales-performance-dashboard)** - Tableau dashboard visualizing sales performance metrics.
+- **[HR Analytics Dashboard](https://github.com/agnivamukherjeeofficial/hr-analytics-dashboard)** - Tableau dashboard analyzing HR data with a focus on gender-related KPIs.
+- **[Sales Performance Dashboard](https://github.com/agnivamukherjeeofficial/sales-performance-dashboard)** - Power BI dashboard visualizing sales performance metrics On different sales datasets
 
 ### 🤖 Machine Learning Projects
 - **[Sentiment Analysis](https://github.com/agnivamukherjeeofficial/sentiment-analysis)** - Machine learning project analyzing customer sentiment from reviews.
