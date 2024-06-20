@@ -23,6 +23,7 @@ I am an **Aspiring Data Scientist** with a strong background in **Data Science**
 
 ## 🏆 Accomplishments
 
+- Completed the **Data Analytics Corporate Training Program** at Techtip24
 - Completed virtual internships with **PwC Switzerland** and **TATA**
 - Created Power BI Dashboards showcasing KPIs and addressing client requests
 - Conducted gender-related KPI analysis in HR data to identify root causes for gender imbalance
